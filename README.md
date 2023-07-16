@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NhatKha17
+- 👋 Hi, I’m Nguyen Nhat Kha
 - 👀 I’m interested in TECHNOLOGY
 - 🌱 I’m currently learning EMBEDDED FIRMWARE
 - 💞️ I’m looking to collaborate on ...
